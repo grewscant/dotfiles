@@ -1,0 +1,5 @@
+.xfce4-panel {
+  -XfcePanelWindow-popup-delay: 0;
+  -XfcePanelWindow-popdown-delay: 0;
+  -XfcePanelWindow-autohide-size: 1;
+}

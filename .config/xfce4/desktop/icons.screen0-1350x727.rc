@@ -1,33 +1,25 @@
 [xfdesktop-version-4.10.3+-rcfile_format]
 4.10.3+=true
 
-[/home/dan/Desktop/New File]
-row=0
-col=10
-
-[/home/dan/Desktop/Slide 5.png]
-row=1
-col=10
-
-[/home/dan/Desktop/mobile.png]
-row=4
-col=11
-
-[/home/dan/Desktop/git-cherry-picking.png]
-row=3
-col=11
-
-[/home/dan/Desktop/IMG_20180427_224143.jpg]
-row=2
-col=10
-
-[/home/dan/Desktop/web.png]
+[/home/dan/Desktop/git-reset.md]
 row=5
 col=11
 
-[/home/dan/Desktop/IMG_20180427_224536.jpg]
-row=3
+[/home/dan/Desktop/scilld.png]
+row=0
 col=10
+
+[/home/dan/Desktop/mobile.png]
+row=3
+col=11
+
+[/home/dan/Desktop/scilld_banner.png]
+row=1
+col=10
+
+[/home/dan/Desktop/web.png]
+row=4
+col=11
 
 [127E75F67E75D349]
 row=0

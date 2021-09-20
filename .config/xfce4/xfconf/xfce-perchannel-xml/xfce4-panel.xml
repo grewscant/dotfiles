@@ -41,6 +41,7 @@
         <value type="int" value="10"/>
         <value type="int" value="11"/>
         <value type="int" value="13"/>
+        <value type="int" value="12"/>
         <value type="int" value="7"/>
         <value type="int" value="8"/>
       </property>
@@ -134,7 +135,12 @@
     </property>
     <property name="plugin-18" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance12260;chromium.instance12641;chromium.instance1716;chromium.instance1739;chromium.instance1746;chromium.instance1780;chromium.instance1821;chromium.instance1949;chromium.instance1971;chromium.instance2145;chromium.instance2221;chromium.instance22213;chromium.instance24071;chromium.instance2575;chromium.instance29938;chromium.instance2998;chromium.instance37601;chromium.instance38805;chromium.instance39048;chromium.instance39879;chromium.instance43506;chromium.instance5325;chromium.instance5466;chromium.instance56094;chromium.instance59426;chromium.instance6267;chromium.instance80323;spotify"/>
+      <property name="mpris-players" type="string" value="chromium.instance10271;chromium.instance12260;chromium.instance12641;chromium.instance1716;chromium.instance1739;chromium.instance1746;chromium.instance1780;chromium.instance1793;chromium.instance1821;chromium.instance1949;chromium.instance1971;chromium.instance2145;chromium.instance2221;chromium.instance22213;chromium.instance24071;chromium.instance2575;chromium.instance29938;chromium.instance2998;chromium.instance3354;chromium.instance37601;chromium.instance38805;chromium.instance39048;chromium.instance39879;chromium.instance43506;chromium.instance5325;chromium.instance5466;chromium.instance56094;chromium.instance59426;chromium.instance6267;chromium.instance80323;chromium.instance9468;spotify"/>
+    </property>
+    <property name="plugin-12" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16321476441.desktop"/>
+      </property>
     </property>
   </property>
 </channel>
